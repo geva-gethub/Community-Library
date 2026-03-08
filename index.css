@@ -90,6 +90,7 @@ footer {
   padding: 20px;
   margin-top: 50px;
   font-size: 14px;
+  text-align: center;
 }
 
 /* Mobile Fixes */
@@ -108,4 +109,5 @@ footer {
     padding: 20px;
   }
 }
+
 
