@@ -74,7 +74,9 @@ border-radius: 5px;
 font-weight: bold;
 cursor: pointer;
 
- } input[type="submit"]:hover {
+ } 
+
+input[type="submit"]:hover {
  background-color: #2E5B2C;
  }  
 
@@ -93,4 +95,5 @@ footer {
   
 
 }
+
 
