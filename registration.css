@@ -1,4 +1,3 @@
-
 body {
   font-family: "Segoe UI", sans-serif;
   background-color: #f5f1e8;
@@ -7,13 +6,11 @@ body {
   text-align: center;
 }
 
-
 header {
   background-color: #155D3B;
   color: white;
   padding: 20px;
 }
-
 
 nav {
   background-color: #1F7A4C;
@@ -32,11 +29,9 @@ nav a:hover {
   color: #DFF5EA;
 }
 
-
 section {
   padding: 30px;
 }
-
 
 .container {
   background: white;
@@ -47,6 +42,21 @@ section {
   border-radius: 8px;
 }
 
+.row {
+  width: 100%;
+  overflow: hidden;
+}
+
+.input-group {
+  width: 48%;
+  float: left;
+  margin-right: 4%;
+  text-align: left;
+}
+
+.input-group:last-child {
+  margin-right: 0;
+}
 
 input {
   width: 100%;
@@ -60,17 +70,6 @@ input {
 input:focus {
   background-color: #ddd;
   outline: none;
-}
-
-.row {
-  display: flex;
-  gap: 20px;
-  margin-bottom: 10px;
-}
-
-.input-group {
-  flex: 1;
-  text-align: left;
 }
 
 label {
@@ -92,12 +91,10 @@ label {
   background-color: #03995f;
 }
 
-
 hr {
   border: 1px solid #eee;
   margin-bottom: 20px;
 }
-
 
 footer {
   background-color: #155D3B;
