@@ -5,12 +5,14 @@ header {
        text-align: center;
       
    }
+
 body {
   font-family: "Segoe UI", sans-serif;
   background: #f5f1e8;
   color: #1E2D26;
   text-align: center;
 }
+
 nav {
       background-color: #1F7A4C;
       padding: 15px;
@@ -49,5 +51,6 @@ footer {
 
 	
   
+
 
 
