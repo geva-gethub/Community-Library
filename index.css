@@ -20,6 +20,8 @@ nav {
   padding: 15px;
   text-align: center;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  position: sticky;
+  top: 0;
 }
 
 nav a {
@@ -106,3 +108,4 @@ footer {
     padding: 20px;
   }
 }
+
