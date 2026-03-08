@@ -15,25 +15,23 @@ header {
   text-align: center;
 }
 
-/* Navigation Bar */
 nav {
-  background-color: #1F7A4C;
-  padding: 15px;
-  position: sticky;
-  top: 0;
-}
+      background-color: #1F7A4C;
+      padding: 15px;
+      position: sticky;
+      top: 0;
+  }
 
-nav a {
-  color: white;
-  text-decoration: none;
-  margin: 0 20px;
-  font-weight: bold;
-  font-size: 16px;
+  nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 20px;
+      font-weight: bold;
 }
-
-nav a:hover {
-  color: #DFF5EA;
-  text-decoration: underline;
+ 
+  nav a:hover {
+    color: #DFF5EA;
+    text-decoration: underline;
 }
 
 /* Sections as Cards */
@@ -117,6 +115,7 @@ footer {
     padding: 20px;
   }
 }
+
 
 
 
