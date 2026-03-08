@@ -1,0 +1,47 @@
+header {
+       background-color: #155D3B;
+       color: white;
+       padding: 20px;
+       text-align: center;
+      
+   }
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #f5f1e8;
+  color: #1E2D26;
+  text-align: center;
+}
+nav {
+      background-color: #1F7A4C;
+      padding: 15px;
+      position: sticky;
+      top: 0;
+  }
+
+  nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 20px;
+      font-weight: bold;
+}
+ 
+  nav a:hover {
+    color: #DFF5EA;
+    text-decoration: underline;
+}
+
+
+
+footer {
+	background-color: #155D3B;
+	color: white;
+	text-align: center;
+	padding: 15px; 
+  margin-top: 30px;
+}
+
+
+
+
+	
+  
