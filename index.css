@@ -26,7 +26,6 @@ nav {
 
 nav a {
   color: white;
-  text-decoration: none;
   margin: 0 15px;
   font-weight: bold;
   font-size: 16px;
@@ -97,6 +96,7 @@ footer {
 /* Mobile Fixes */
 @media (max-width: 700px) {
   nav a {
+    display: flex;
     margin: 10px 0;
   }
 
@@ -109,6 +109,7 @@ footer {
     padding: 20px;
   }
 }
+
 
 
 
