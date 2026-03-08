@@ -4,6 +4,7 @@ body {
   background-color: #e9efe9;
   color: #1E2D26;
   margin: 0;
+  text-align: center;
 }
 
 /* Header */
@@ -109,5 +110,6 @@ footer {
     padding: 20px;
   }
 }
+
 
 
